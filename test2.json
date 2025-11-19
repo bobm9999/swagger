@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/bobm9999/swagger/refs/heads/main/swagge.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/bobm9999/swagger/refs/heads/main/swagge.yaml",
+            "name": "Foo"
+        }
+    ]
+}
